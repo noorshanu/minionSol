@@ -15,7 +15,7 @@ function Navbar() {
             <a href="https://t.me/smurfsol" target="_blank" className=" text-2xl text-[#ffcc01]">
               <FaTelegram />
             </a>
-            <a href="https://twitter.com/Smurfssol" target="_blank" className=" text-2xl text-[#ffcc01]">
+            <a href="https://twitter.com/Minionsssol" target="_blank" className=" text-2xl text-[#ffcc01]">
               <FaTwitter />
             </a>
           </div>
