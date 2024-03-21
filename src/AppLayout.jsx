@@ -29,10 +29,11 @@ function AppLayout() {
         <img src="images/enjoy.png" alt="" className=" w-full mx-auto" />
         </div>
   
-        <dl className="h-[50px]" />
-        {/* <div className=" bg-[#473314]">
+       
+        <div className=" bg-[#ffffff] relative z-20">
         <MemeCards />
-        </div> */}
+        <img src="images/foot.png" alt="" className=" absolute bottom-0 left-0 right-0 w-auto sm:w-[800px] mx-auto -z-10" />
+        </div>
         {/* <div className=" h-[100px]  py-4  mb-2 bg-[#0000005d] ">
         <MemeMark />
       </div> */}

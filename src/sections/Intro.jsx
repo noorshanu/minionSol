@@ -4,7 +4,7 @@ import RoadmapCards from "../components/RoadmapCards";
 const Intro = () => {
   return (
     <>
-      <div className=" container-wrapper  px-4 pb-[3rem] ">
+      <div className=" container-wrapper  px-4 pb-[3rem] mt-6 ">
    
       <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
           About Us

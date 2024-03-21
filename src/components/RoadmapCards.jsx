@@ -24,43 +24,37 @@ function RoadmapCards() {
       >
         <SwiperSlide>
           <img
-            src="images/hero2.png"
+            src="images/nft.gif"
             alt=""
-            className=" rounded-xl border-black border h-[350px] mx-auto"
+            className=" rounded-xl  border h-[350px] mx-auto"
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <img
-            src="images/hero3.png"
+            src="images/pool.gif"
             alt=""
-            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
+            className=" rounded-xl  m-4  h-[350px] mx-auto"
           />
         </SwiperSlide>
 
         <SwiperSlide>
           <img
-            src="images/hero.png"
+            src="images/stake.gif"
             alt=""
-            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
+            className=" rounded-xl  m-4  h-[350px] mx-auto"
           />
         </SwiperSlide>
 
-        <SwiperSlide>
-          <img
-            src="images/hero2.png"
-            alt=""
-            className=" rounded-xl border-black border m-4  h-[350px] mx-auto"
-          />
-        </SwiperSlide>
+    
 
        
       </Swiper>
 
-      <div className="flex items-center space-x-5 justify-center mt-4">
+      {/* <div className="flex items-center space-x-5 justify-center mt-4">
         <SliderNavigationButton id="prevEl" className="rotate-180" />
         <SliderNavigationButton id="nextEl" />
-      </div>
+      </div> */}
     </section>
   );
 }
