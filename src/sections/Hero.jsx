@@ -2,7 +2,7 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 function Hero() {
   return (
     <section className=" pt-0  relative ">
-      <img src="images/hii.gif" alt="" className=" absolute left-0 top-[45%] h-[300px]" />
+      <img src="images/hii.gif" alt="" className=" absolute left-0 top-[10%] sm:top-[45%] h-[150px] sm:h-[300px]" />
       <div className="container-wrapper">
         <div className="relative z-50">
           <div className=" flex justify-center flex-col items-center ">

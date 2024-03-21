@@ -26,7 +26,7 @@ function RoadmapCards() {
           <img
             src="images/nft.gif"
             alt=""
-            className=" rounded-xl  border h-[350px] mx-auto"
+            className=" rounded-xl   h-[350px] mx-auto"
           />
         </SwiperSlide>
 
