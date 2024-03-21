@@ -12,7 +12,7 @@ function Navbar() {
         </div>
 
           <div className="flex items-center space-x-6">
-            <a href="https://t.me/smurfsol" target="_blank" className=" text-2xl text-[#ffcc01]">
+            <a href="https://t.me/minionsoll" target="_blank" className=" text-2xl text-[#ffcc01]">
               <FaTelegram />
             </a>
             <a href="https://twitter.com/Minionsssol" target="_blank" className=" text-2xl text-[#ffcc01]">
