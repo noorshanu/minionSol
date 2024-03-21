@@ -41,7 +41,7 @@ function Hero() {
             href="/"
             className="font-groot-one text-2xl uppercase text-black bg-[#f9d059] border-2 border-[#000000] py-2 px-6 rounded-full"
           >
-            DexTool<span>s</span>
+            DexTool
           </a>
           <a
             href="https://t.me/minionsoll"
