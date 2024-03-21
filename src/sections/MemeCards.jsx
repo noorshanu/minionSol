@@ -14,24 +14,24 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-two text-xl sm:text-3xl text-black font-semibold  py-2">
-            SylvesterSol isn't your average meme coin - he's the next viral meme! 
+            MinionSol isn't your average meme coin - he's the next viral meme! 
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-two text-black  font-medium">
-              1. SylvesterSol Game: Dive into underwater gaming fun with SylvesterSol and friends!
+              1. MEV BOT:
+Need to whip up a meme faster than you can say "It's so fluffy I'm gonna die"? Our MEV BOT has got you covered! It's like having your own personal minion assistant,
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two  text-black font-medium">
-              2. SylvesterSol NFTs: Collect rare and adorable NFTs featuring your favorite characters.
+              2. Memes:
+Get ready to laugh till your sides ache and your cheeks hurt! Our meme collection is so vast and varied, it'll make you feel like you've hit the jackpot at the Bank of Evil.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-two text-black font-medium">
-              3. Staking: Multiply your rewards like bubbles in the ocean!
+              3. NFTs:
+Want to own a piece of meme history? Check our NFT collection! These digital treasures are rarer than a unicorn sighting and more valuable than a golden banana.
 
             </h1>
-            <h1 className=" text-xl sm:text-2xl py-3 font-groot-two text-black font-medium">
-              3. Non-stop Meme Creation: Spread joy and laughter with our community's hilarious memes.
-
-            </h1>
+       
           </div>
        
 

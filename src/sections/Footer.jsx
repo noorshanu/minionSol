@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex justify-center flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one ">
-                Copyright 2024 SmurfSol. All Rights Reserved.
+                Copyright 2024 MinionSol. All Rights Reserved.
               </p>
 
           </div>

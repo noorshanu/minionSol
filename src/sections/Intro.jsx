@@ -27,14 +27,14 @@ const Intro = () => {
           <div className=" max-w-xl">
         
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-black py-2">
-              Welcome to the wild world of SmurfSol!
+              Welcome to the wild world of MinionSol!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-[#000] font-medium">
-            In SmurfSol world laughter meets crypto! 🚀 Dive into a world of humor, energy, and downright hilarious memes with SmurfSol - the ultimate crypto meme coin on the Solana blockchain.
+            MinionSol, where the memes are as plentiful as bananas in a minion's lair! We're not just any old crypto meme coin – we're your loyal companions on the journey to meme greatness. 
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one   text-[#000] font-medium">
-            SmurfSol isn't your ordinary meme coin. No siree! We're all about pumping up the fun while keeping those crypto gains rolling in. Our community thrives on spreading joy, laughter, and of course, making some serious waves in the crypto space.
+            With hearts as big as Gru's ambitions and a community as tight-knit as a group hug from a bunch of minions, you'll feel right at home with us.
             </h1>
 
             

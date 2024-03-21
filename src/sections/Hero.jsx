@@ -7,7 +7,7 @@ function Hero() {
         <div className="relative z-50">
           <div className=" flex justify-center flex-col items-center ">
             <h1 className=" font-groot-one text-lg sm:text-5xl text-center  mb-3">
-              Where are Solana <span className=" font-groot-one text-lg sm:text-5xl text-[#f9d059]">Minions !</span>
+            Join the <span className=" font-groot-one text-lg sm:text-5xl text-[#f9d059]">Minions !</span> Movement 
             </h1>
 
             <div className=" w-full">
