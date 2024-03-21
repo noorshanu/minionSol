@@ -11,7 +11,7 @@ function Hero() {
             </h1>
 
             <div className=" w-full">
-              <img src="images/bgmain.png" alt="" className=" h-auto  mx-auto floating" />
+              <img src="images/hero3.png" alt="" className=" h-auto  mx-auto floating" />
             </div>
           </div>
         </div>
