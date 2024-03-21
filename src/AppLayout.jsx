@@ -15,13 +15,18 @@ function AppLayout() {
         <Navbar />
 
         <Hero />
+
+
+     
       </main>
      
 
       <div>
         <dl className="h-[50px]" />
-        <div className="bg-[#ffffff96] border-t-2 border-b-2 border-black py-8">
+        <div className="bg-[#ffd60c] border-t-2 border-b-2 border-black py-8 relative">
+
         <Intro />
+        <img src="images/enjoy.png" alt="" className=" w-full mx-auto" />
         </div>
   
         <dl className="h-[50px]" />

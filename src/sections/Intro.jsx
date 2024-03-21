@@ -6,15 +6,17 @@ const Intro = () => {
     <>
       <div className=" container-wrapper  px-4 pb-[3rem] ">
    
-     
+      <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
+          About Us
+        </h2>
     
 
         <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center ">
-          <div className=" w-full sm:w-[500px] border-[#000000] border-2 rounded-2xl ">
+          <div className=" w-full sm:w-[500px]    ">
             {/* <RoadmapCards /> */}
          
             <img
-              src="images/hero2.png"
+              src="images/about.png"
               alt=""
               className=" rounded-3xl h-auto  sm:h-[400px] mx-auto mb-4  "
             />
@@ -23,9 +25,7 @@ const Intro = () => {
            
           </div>
           <div className=" max-w-xl">
-          <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30 -mt-4">
-          About Us
-        </h2>
+        
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-black py-2">
               Welcome to the wild world of SmurfSol!
             </p>

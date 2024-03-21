@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: "groot-one";
-  src: url("/fonts/smurf.ttf");
+  src: url("/fonts/mini.ttf");
 }
 
 .font-groot-one{
@@ -35,7 +35,7 @@
 
   html,
   body {
-    @apply bg-[#0096db] text-black  ;
+    @apply bg-[#fff] text-black  ;
   }
 
   .container-wrapper {
